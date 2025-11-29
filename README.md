@@ -1,5 +1,5 @@
 
 ## Hi there 👋
 
-![GitHub Streak](https://img.shields.io/badge/Streak-🔥%20Active-brightgreen)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AbubakarTechy)](https://git.io/streak-stats)
 
