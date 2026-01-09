@@ -24,8 +24,6 @@
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=AbubakarTechy&style=for-the-badge)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbubakarTechy)](https://streak-stats.demolab.com/?user=AbubakarTechy)
-![GitHub Streak](https://img.shields.io/badge/Streak-🔥%20Active-brightgreen)
 
 ⭐ Always learning. Always building.
 
