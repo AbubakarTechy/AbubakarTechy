@@ -22,7 +22,7 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AbubakarTechy&style=for-the-badge).
+![Profile Views](https://komarev.com/ghpvc/?username=AbubakarTechy&style=for-the-badge)
 
 
 ⭐ Always learning. Always building.
