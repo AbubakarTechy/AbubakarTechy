@@ -1,5 +1,5 @@
   #Hi, I'm Abubakar 👋.   
-🎓 CS Student | 🌐 MERN Developer | 📱 React Nat ive Learner   
+🎓 CS Student | 🌐 MERN Developer | 📱 React Native Learner   
 🚀 Learning by building real projects
 
 ---
