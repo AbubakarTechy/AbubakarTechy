@@ -1,4 +1,4 @@
-   v  v  #Hi, I'm Abubakar 👋.   
+   #Hi, I'm Abubakar 👋.   
 🎓 CS Student | 🌐 MERN Developer | 📱 React Native Learner   
 🚀 Learning by building real projects
 
